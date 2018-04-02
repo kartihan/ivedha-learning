@@ -1,0 +1,125 @@
+.box {
+    width: 240px;
+    height: 130px;
+    position: absolute;
+}
+.line {
+    width: 1px;
+    background-color: black;
+    position: absolute;
+}
+
+img{
+    position: absolute;
+    left: 40%;
+    top: 15%;
+}
+
+p{
+    font-size: 20px;
+    text-align: center;
+    margin-top: 50px;
+}
+button{
+    background-color: white; 
+    color: #4CAF50; 
+    border: 1px solid #4CAF50;
+    position: absolute;
+    bottom: 0;
+    font-size: 20px;
+    width: 238px;
+    height: 40px;
+
+
+}
+
+button:hover{
+    cursor: pointer;
+    background-color: #4CAF50;
+    color: white;
+
+}
+
+#box1 {
+    top: 225px;
+    left: 42px;
+}
+#box2 {
+    top: 70px;
+    left: 400px;
+    
+}
+#box3 {
+    top: 70px;
+    left: 800px;
+    
+}
+#box4 {
+    top: 380px;
+    left: 400px;
+    
+}
+#box5 {
+    top: 380px;
+    left: 800px;
+    
+}
+#line1 {
+    top: 300.4px;
+    left: 306px;
+    height: 55px;
+    transform: rotate(90deg);
+    -webkit-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+}
+#line2 {
+    top: 178px;
+    left: 333px;
+    height: 150px;
+}
+#line3 {
+    top: 145px;
+    left: 366px;
+    height: 67px;
+    transform: rotate(90deg);
+    -webkit-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+}
+#line4 { 
+    top: 100px;
+    left: 718.5px;
+    height: 162px;
+    transform: rotate(90deg);
+    -webkit-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+}
+
+#line5 {
+    top: 312px;
+    left: 306px;
+    height: 55px;
+    transform: rotate(90deg);
+    -webkit-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+}
+#line6 {
+    top: 340px;
+    left: 333px;
+    height: 150px;
+}
+#line7 {
+    top: 455px;
+    left: 366px;
+    height: 67px;
+    transform: rotate(90deg);
+    -webkit-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+}
+#line8 { 
+    top: 408px;
+    left: 718.5px;
+    height: 162px;
+    transform: rotate(90deg);
+    -webkit-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+}
