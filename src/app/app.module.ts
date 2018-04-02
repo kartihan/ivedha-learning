@@ -4,6 +4,7 @@ import { AppComponent } from './app.component';
 import { RouterModule } from '@angular/router';
 import { AppRoutingModule } from './app-routing.module';
 import { DRoutingModule } from './d-routing.module';
+import { ClarityModule } from "@clr/angular";
 
 
 @NgModule({
@@ -13,7 +14,8 @@ import { DRoutingModule } from './d-routing.module';
   imports: [
     BrowserModule,
     RouterModule,
-    DRoutingModule
+    DRoutingModule,
+    ClarityModule,
   ],
   providers: [],
   bootstrap: [AppComponent]
