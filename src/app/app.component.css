@@ -5,10 +5,14 @@ h1{
     color: #008080;
 }
 
-h3, h6, hr{
+h3, h6{
     color: #004444
 }
-
+hr.style1{
+    border-top: 1px solid #004444;
+    width: 95%;
+    margin-right: 5px;
+}
 .box {
     width: 280px;
     height: 130px;
