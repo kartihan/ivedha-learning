@@ -1,5 +1,5 @@
 .box {
-    width: 240px;
+    width: 280px;
     height: 130px;
     position: absolute;
 }
@@ -10,24 +10,29 @@
 }
 
 img{
-    position: absolute;
-    left: 40%;
-    top: 15%;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 20px;
+
 }
 
 p{
-    font-size: 20px;
+    position: inherit;
     text-align: center;
-    margin-top: 50px;
+    top: 25%;    
+    font-size: 20px;
+    width: 100%;
+    
 }
 button{
     background-color: white; 
     color: #4CAF50; 
     border: 1px solid #4CAF50;
-    position: absolute;
+    position: inherit;
     bottom: 0;
     font-size: 20px;
-    width: 238px;
+    width: 280px;
     height: 40px;
 
 
@@ -41,12 +46,12 @@ button:hover{
 }
 
 #box1 {
-    top: 225px;
-    left: 42px;
+    top: 220px;
+    left: 65px;
 }
 #box2 {
     top: 70px;
-    left: 400px;
+    left: 450px;
     
 }
 #box3 {
@@ -56,7 +61,7 @@ button:hover{
 }
 #box4 {
     top: 380px;
-    left: 400px;
+    left: 450px;
     
 }
 #box5 {
@@ -66,59 +71,59 @@ button:hover{
 }
 #line1 {
     top: 300.4px;
-    left: 306px;
-    height: 55px;
+    left: 364px;
+    height: 40px;
     transform: rotate(90deg);
     -webkit-transform: rotate(90deg);
     -ms-transform: rotate(90deg);
 }
 #line2 {
-    top: 178px;
-    left: 333px;
-    height: 150px;
+    top: 182px;
+    left: 384px;
+    height: 139px;
 }
 #line3 {
-    top: 145px;
-    left: 366px;
+    top: 148px;
+    left: 417px;
     height: 67px;
     transform: rotate(90deg);
     -webkit-transform: rotate(90deg);
     -ms-transform: rotate(90deg);
 }
 #line4 { 
-    top: 100px;
-    left: 718.5px;
-    height: 162px;
+    top: 147px;
+    left: 764px;
+    height: 71px;
     transform: rotate(90deg);
     -webkit-transform: rotate(90deg);
     -ms-transform: rotate(90deg);
 }
 
 #line5 {
-    top: 312px;
-    left: 306px;
-    height: 55px;
+    top: 320px;
+    left: 364px;
+    height: 40px;
     transform: rotate(90deg);
     -webkit-transform: rotate(90deg);
     -ms-transform: rotate(90deg);
 }
 #line6 {
     top: 340px;
-    left: 333px;
+    left: 384px;;
     height: 150px;
 }
 #line7 {
     top: 455px;
-    left: 366px;
+    left: 417px;
     height: 67px;
     transform: rotate(90deg);
     -webkit-transform: rotate(90deg);
     -ms-transform: rotate(90deg);
 }
 #line8 { 
-    top: 408px;
-    left: 718.5px;
-    height: 162px;
+    top: 453px;
+    left: 764px;
+    height: 71px;
     transform: rotate(90deg);
     -webkit-transform: rotate(90deg);
     -ms-transform: rotate(90deg);
