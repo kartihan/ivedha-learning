@@ -48,7 +48,7 @@ button{
     position: inherit;
     bottom: 0;
     font-size: 20px;
-    width: 280px;
+    width: 255px;
     height: 40px;
 
 
@@ -62,82 +62,82 @@ button:hover{
 }
 
 #box1 {
-    top: 143px;
-    left: 65px;
+    top: 116px;
+    left: 75px;
 }
 #box2 {
-    left: 450px;
+    left: 425px;
     
 }
 #box3 {
-    left: 800px;
+    left: 775px;
     
 }
 #box4 {
-    top: 290px;
-    left: 450px;
+    top: 230px;
+    left: 425px;
     
 }
 #box5 {
-    top: 290px;
-    left: 800px;
+    top: 230px;
+    left: 775px;
     
 }
 #line1 {
-    top: 227px;
-    left: 364px;
-    height: 40px;
+    top: 200px;
+    left: 346px;
+    height: 34px;
     transform: rotate(90deg);
     -webkit-transform: rotate(90deg);
     -ms-transform: rotate(90deg);
 }
 #line2 {
-    top: 108px;
-    left: 384px;
-    height: 139px;
+    top: 107.5px;
+    left: 363px;
+    height: 110px;
 }
 #line3 {
     top: 75px;
-    left: 417px;
-    height: 67px;
+    left: 395px;    
+    height: 65px;
     transform: rotate(90deg);
     -webkit-transform: rotate(90deg);
     -ms-transform: rotate(90deg);
 }
 #line4 { 
-    top: 75px;
-    left: 764px;
-    height: 71px;
+    top: 60px;
+    left: 727px;
+    height: 95px;
     transform: rotate(90deg);
     -webkit-transform: rotate(90deg);
     -ms-transform: rotate(90deg);
 }
 
 #line5 {
-    top: 240px;
-    left: 364px;
-    height: 40px;
+    top: 212px;
+    left: 346px;
+    height: 34px;
     transform: rotate(90deg);
     -webkit-transform: rotate(90deg);
     -ms-transform: rotate(90deg);
 }
 #line6 {
-    top: 260px;
-    left: 384px;
-    height: 139px;
+    top: 228.5px;
+    left: 363px;
+    height: 110px;
 }
 #line7 {
-    top: 365px;
-    left: 417px;
-    height: 67px;
+    top: 306px;
+    left: 395px;
+    height: 65px;
     transform: rotate(90deg);
     -webkit-transform: rotate(90deg);
     -ms-transform: rotate(90deg);
 }
 #line8 { 
-    top: 365px;
-    left: 764px;
-    height: 71px;
+    top: 291px;
+    left: 727px;
+    height: 95px;
     transform: rotate(90deg);
     -webkit-transform: rotate(90deg);
     -ms-transform: rotate(90deg);
