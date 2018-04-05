@@ -1,5 +1,6 @@
 h1, h3, h6{
-    padding-left: 50px;
+    padding-left: 65px;
+    padding-right: 190px;
 }
 h1{
     color: #008080;
@@ -8,10 +9,20 @@ h1{
 h3, h6{
     color: #004444
 }
+
+h6{
+    margin-top: -12px;
+}
+
+h3{
+    margin-top: 45px;
+}
+
 hr.style1{
     border-top: 1px solid #004444;
-    width: 95%;
-    margin-right: 5px;
+    margin-top: 12px;
+    width: 947px;
+    margin-right: 80px;
 }
 .box {
     width: 255px;
