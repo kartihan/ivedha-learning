@@ -46,8 +46,8 @@ img{
 p{
     position: inherit;
     text-align: center;
-    top: 25%;    
-    font-size: 20px;
+    top: 30%;    
+    font-size: 15px;
     width: 100%;
     color: #004444
     
@@ -73,29 +73,31 @@ button:hover{
 }
 
 #box1 {
-    top: 116px;
+    top: 148px;
     left: 75px;
 }
 #box2 {
+    top: 30px;
     left: 425px;
     
 }
 #box3 {
-    left: 775px;
+    top: 30px;
+    left: 770px;
     
 }
 #box4 {
-    top: 230px;
+    top: 260px;
     left: 425px;
     
 }
 #box5 {
-    top: 230px;
-    left: 775px;
+    top: 260px;
+    left: 770px;
     
 }
 #line1 {
-    top: 200px;
+    top: 236px;
     left: 346px;
     height: 34px;
     transform: rotate(90deg);
@@ -103,12 +105,12 @@ button:hover{
     -ms-transform: rotate(90deg);
 }
 #line2 {
-    top: 107.5px;
+    top: 143px;
     left: 363px;
     height: 110px;
 }
 #line3 {
-    top: 75px;
+    top: 110px;
     left: 395px;    
     height: 65px;
     transform: rotate(90deg);
@@ -116,7 +118,7 @@ button:hover{
     -ms-transform: rotate(90deg);
 }
 #line4 { 
-    top: 60px;
+    top: 95px;
     left: 727px;
     height: 95px;
     transform: rotate(90deg);
@@ -125,7 +127,7 @@ button:hover{
 }
 
 #line5 {
-    top: 212px;
+    top: 250px;
     left: 346px;
     height: 34px;
     transform: rotate(90deg);
@@ -133,12 +135,12 @@ button:hover{
     -ms-transform: rotate(90deg);
 }
 #line6 {
-    top: 228.5px;
+    top: 267px;
     left: 363px;
-    height: 110px;
+    height: 103px;
 }
 #line7 {
-    top: 306px;
+    top: 337px;
     left: 395px;
     height: 65px;
     transform: rotate(90deg);
@@ -146,7 +148,7 @@ button:hover{
     -ms-transform: rotate(90deg);
 }
 #line8 { 
-    top: 291px;
+    top: 325px;
     left: 727px;
     height: 95px;
     transform: rotate(90deg);
